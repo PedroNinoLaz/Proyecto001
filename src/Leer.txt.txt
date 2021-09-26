@@ -1,0 +1,27 @@
+
+
+
+
+
+…Para crear un nuevo repositorio con las lineas de comandos:
+
+	echo "# Proyecto001" >> README.md
+	git init
+	git add README.md
+	git commit -m "first commit"
+	git branch -M main
+	git remote add origin https://github.com/PedroNinoLaz/Proyecto001.git
+	git push -u origin main
+
+
+…Para "push" (Subir) un repositorio existente desde las lineas de comando
+
+	git remote add origin https://github.com/PedroNinoLaz/Proyecto001.git
+	git branch -M main
+	git push -u origin main
+
+…Para importar codigo desde otro repositorio
+	
+	"Puedes inicializar este repositorio con codigo desde Subversion, Mercurial, or TFS project."
+	
+	You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
