@@ -1,13 +1,13 @@
 ﻿# Proyecto001
-# **MIS DATOS**
+# **MIS DATOS:**
 
 ## Nombre de Usuario: 
 	
-	### PedroNinoLaz
+	#### PedroNinoLaz
 
 ## Correo de usuario:
 	
-	### pninlaz656@educaand.es
+	#### pninlaz656@educaand.es
 
 ## URL del Repositorio 
 
