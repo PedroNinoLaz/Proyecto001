@@ -1,14 +1,14 @@
 ﻿# Proyecto001
-#**MIS DATOS**#
+# **MIS DATOS**#
 
-##Nombre de Usuario: 
+## Nombre de Usuario: 
 	
-	####PedroNinoLaz
+	#### PedroNinoLaz
 
-##Correo de usuario:
+## Correo de usuario:
 	
-	####pninlaz656@educaand.es
+	#### pninlaz656@educaand.es
 
-##URL del Repositorio 
+## URL del Repositorio 
 
-	[Repositorio Practica 1 de Pedro A. Niño] (https://github.com/PedroNinoLaz/Proyecto001.git)
+	[ Repositorio Practica 1 de Pedro A. Niño ] ( https://github.com/PedroNinoLaz/Proyecto001.git )
