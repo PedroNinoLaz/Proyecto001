@@ -3,7 +3,7 @@
 
 ## Nombre de Usuario: 
 	
-	_PedroNinoLaz_
+	*PedroNinoLaz*
 
 ## **Correo de usuario:**
 	
