@@ -11,5 +11,5 @@
 
 ## **URL del Repositorio:** 
 
-	[Repositorio Practica 1 de Pedro A. Niño] (https://github.com/PedroNinoLaz/Proyecto001.git).
+	[Repositorio Practica 1 de Pedro A. Niño] (https://github.com/PedroNinoLaz/Proyecto001.git) .
 	
