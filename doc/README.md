@@ -18,8 +18,9 @@
 	   - PowerShell.
 	     - Bloc de Notas.
 	       - SublimeText 3.
-	1. Primer elemento de la lista
-   - Primer elemento de la lista anidado
-     - Segundo elemento de la lista anidado
+	1. Listado de Herramientas:
+    - PowerShell.
+     - Blog de Notas.   
+     - SublimeText 3. 
 ---
 	
