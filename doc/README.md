@@ -18,9 +18,9 @@
 	   - PowerShell.
 	     - Bloc de Notas.
 	       - SublimeText 3.
-	1. Listado de Herramientas:
-    - PowerShell.
-     - Blog de Notas.   
-     - SublimeText 3. 
+1. Listado de Herramientas
+   - PowerShell
+     - Bloc de Notas
+       - SublimeText 3
 ---
 	
