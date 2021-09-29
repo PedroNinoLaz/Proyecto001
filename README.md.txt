@@ -1,4 +1,3 @@
-BLABLABLA
 
 …or create a new repository on the command line
 	echo "# Proyecto001" >> README.md
