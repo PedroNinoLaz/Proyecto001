@@ -11,7 +11,7 @@
 ---
 ## **URL del Repositorio:** 
 
-	[Repositorio Practica 1 de Pedro A. Niño](Proyecto001)
+	Esté sitio forma parte de: [Repositorio Practica 1 de Pedro A. Niño](Proyecto001)
 ---	
 
 ## **1. Listado de Herramientas:**
