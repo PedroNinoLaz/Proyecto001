@@ -11,7 +11,7 @@
 ---
 ## **URL del Repositorio:** 
 
-	Esté sitio forma parte de: [Repositorio Practica 1 de Pedro A. Niño](https://github.com/PedroNinoLaz/Proyecto001.git)
+	Repositorio Practica 1 de Pedro A. Niño https://github.com/PedroNinoLaz/Proyecto001.git
 ---	
 
 ## **1. Listado de Herramientas:**
