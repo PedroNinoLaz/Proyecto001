@@ -15,8 +15,8 @@
 ---	
 ## **Herramientas Utilizadas:**
 	1. Listado de Herramientas:
-	   _ PowerShell.
-	     _ Bloc de Notas.
-	       _ SublimeText 3.
+	   - PowerShell.
+	     - Bloc de Notas.
+	       - SublimeText 3.
 ---
 	
