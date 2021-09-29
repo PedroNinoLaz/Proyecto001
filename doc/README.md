@@ -7,17 +7,13 @@
 ---
 ## **Correo de usuario:**
 	
-	 _pninlaz656@educaand.es_
+	 *pninlaz656@educaand.es*
 ---
 ## **URL del Repositorio:** 
 
-	[Repositorio Practica 1 de Pedro A. Niño](/Proyecto001).
+	[Repositorio Practica 1 de Pedro A. Niño](Proyecto001)
 ---	
-## **Herramientas Utilizadas:**
-	1. Listado de Herramientas:
-	   - PowerShell.
-	     - Bloc de Notas.
-	       - SublimeText 3.
+
 ## **1. Listado de Herramientas:**
    - PowerShell
      - Bloc de Notas
